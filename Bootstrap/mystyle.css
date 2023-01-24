@@ -1,0 +1,97 @@
+
+ .n_blue{
+   background: #2C4482;
+ } 
+ .f-color{
+ 
+  color: #2C4482;
+ }  
+
+.bg_p{
+  background: #E7EDFF;
+}
+.carousel-item
+{
+  height: 800px;
+}
+.f_pegion{
+  color: #8E9BBE;
+}
+.pegion-lightgray{
+   background: #E7EDFF;
+}
+#border1{
+
+  border-color:#2C4482 ;
+
+}
+.myimg
+{
+  margin-top: -100px;
+}
+.bg1
+{
+  background-color: aquamarine;
+
+}
+.bg_pink{
+ background-color: #eecde7
+ 
+}
+.nav-pills .pill .nav-link:not(.active) {
+  background-color: #F5F6F9;
+}
+.nav-pills .pill .nav-link{
+  background-color: #77D29C;
+}
+.f-pink
+{ color: #F276D7;}
+
+.nav-pills .pill .nav-link:not(.active) {
+  background-color: #F5F6F9;
+}
+.nav-pills .pill .nav-link{
+  background-color: #77D29C;
+}
+
+.nav-item:hover {
+  background-color: #ddd;
+}
+.back-img{
+   background-image: url("img/form-bg.png");
+   background-repeat: no-repeat;
+}
+ .logo{
+    background-color:#2C4482;
+    border-radius:70px;
+    height: 30px;
+    width:30px;
+ }  
+ .bg1{
+  background-color:#2C4482 ;
+ }  
+
+.mar{
+  margin-left: 450px;
+}
+.nav-item:hover{
+
+  color:#FF9600;
+}
+.orange{
+  color:#FF9600;
+}
+@media (min-width: 1024px) {
+  .first {
+      border-right: #8E9BBE solid 1px;
+      border-bottom: #8E9BBE solid 1px;
+  }
+
+  .second {
+      border-bottom: #8E9BBE solid 1px;
+  }
+
+  .third {
+      border-right: #8E9BBE solid 1px;
+  }
+}
